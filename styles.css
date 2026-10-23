@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+h1 {
+    text-align: center;
+}
+
+.luffy {
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#zoro {
+    text-align: center;
+}
+
+.sanji {
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(204, 204, 204);
+}
