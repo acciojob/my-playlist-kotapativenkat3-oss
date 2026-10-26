@@ -24,3 +24,13 @@ h1 {
 body{
     background-color: rgb(204, 204, 204);
 }
+
+
+.sanji ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sanji li {
+    list-style-type: none;
+}
